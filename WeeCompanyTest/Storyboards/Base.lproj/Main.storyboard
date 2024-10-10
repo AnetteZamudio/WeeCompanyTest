@@ -262,6 +262,7 @@
                                                     </view>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kax-bo-M4i">
                                                         <rect key="frame" x="0.0" y="948.66666666666663" width="393" height="34.333333333333371"/>
+                                                        <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
                                                         <state key="normal" title="Button"/>
                                                         <buttonConfiguration key="configuration" style="plain" title="Ver en google maps"/>
                                                         <connections>

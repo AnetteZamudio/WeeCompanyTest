@@ -1,9 +1,3 @@
-//
-//  WeeCompanyTestTests.swift
-//  WeeCompanyTestTests
-//
-//  Created by Pablo Luis Velazquez Zamudio on 09/10/24.
-//
 
 import XCTest
 @testable import WeeCompanyTest
